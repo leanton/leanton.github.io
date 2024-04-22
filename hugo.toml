@@ -3,6 +3,21 @@ languageCode = 'en-gb'
 title = 'Anton Le'
 theme = 'archie'
 
+# code highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourDisqusShortname"
+
+paginate = 3 # articles per page
+
+[params]
+mode = "auto" # color-mode → light,dark,toggle or auto
+useCDN = false
+subtitle = "Building in progress"
+mathjax = true
+katex = true
 
 # Social Tags
 [[params.social]]
