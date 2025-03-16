@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourDisqusShortname"
+# disqusShortname = "yourDisqusShortname" # todo: temp remove disqus comments and figure out whether they are needed at all or not
 
 paginate = 3 # articles per page
 
