@@ -13,3 +13,11 @@ fn main() {
     println!("Hello World!");
 }
 ```
+
+
+Let me try another thing:
+- This is a first thing
+- This is the second one
+
+
+Why the bullet points are looking so inconsistent from what I used to look at?
